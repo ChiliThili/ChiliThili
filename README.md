@@ -1,6 +1,6 @@
 Hi I'm ChiliThili 
-I am a software programmer 
-and I do this stuff for more than 3 years
+I am a software coder
+and I do this stuff for more than 5 years
 If you want to cooperate with me 
-pls send my a message
+pls send me a message
 :)
