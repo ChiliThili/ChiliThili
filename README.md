@@ -1,6 +1,1 @@
-Hi I'm ChiliThili 
-I am a software coder
-and I do this stuff for more than 5 years
-If you want to cooperate with me 
-pls send me a message
-:)
+Hi, I am ChiliThili an average Coder that codes stuff in the Backend and I have been doing this for more than 5 years now. If you have questions because of my code please ask them.
